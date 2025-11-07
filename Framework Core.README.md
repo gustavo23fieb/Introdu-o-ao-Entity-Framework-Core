@@ -33,4 +33,4 @@ lase load, suporte para transações, conversão de valores e o principal suport
 
 - No ano de 2012, 2013 a Microsoft já estava escrevendo o novo runtime para o .NET. Então o time do Entity Framework se reúne
 e decide que ali seria hora certa de escrever o novo Rm para dar uma nova experiência ao usuário
-- 
+- Em resumo o nascimento dele se deu por causa de otimização
